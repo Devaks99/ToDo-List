@@ -15,7 +15,6 @@ O projeto **To-Do List** é uma aplicação simples de lista de tarefas, desenvo
 - **Adicionar tarefas**: O usuário pode adicionar novas tarefas à lista.
 - **Remover tarefas**: O usuário pode remover tarefas da lista.
 - **Marcar tarefas como concluídas**: O usuário pode marcar tarefas como feitas, alterando o visual da tarefa.
-- **Armazenamento local**: A lista de tarefas é armazenada localmente no navegador, permitindo que as tarefas sejam salvas mesmo após a página ser recarregada.
 
 ---
 
