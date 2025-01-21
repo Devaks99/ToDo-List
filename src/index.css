@@ -1,0 +1,128 @@
+/* Reset de estilos básicos */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  background:linear-gradient(135deg, #9ed7f1, #1e1e2e);
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+/* Container principal */
+.container {
+  width: 800px;
+  max-width: 600px;
+  background: #0c0c0c;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  border-bottom: 2px solid #ffffff;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #0fccfc;
+}
+
+/* Estilização do Formulário */
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  background: #3b3f4a;
+  color: #ffffff;
+}
+
+input::placeholder {
+  color: #a0a0a0;
+}
+
+button {
+  background: #0fccfc;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #0089ac;
+}
+
+/* Lista de Tarefas */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #3b3f4a;
+  padding: 12px;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+li:hover {
+  background: #474c59;
+}
+
+/* Checkbox customizado */
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: #0fccfc;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* Texto da Tarefa */
+span {
+  flex: 1;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+/* Quando a tarefa está concluída */
+.completed span {
+  text-decoration: line-through;
+  color: #8e8e8e;
+}
+
+/* Botão de excluir */
+button.delete-btn {
+  background: #e74c3c;
+  padding: 5px 10px;
+  font-size: 14px;
+  color: white;
+}
+
+button.delete-btn:hover {
+  background: #c0392b;
+}
+
