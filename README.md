@@ -2,6 +2,10 @@
 
 Este projeto faz parte da **Summer Academy**, uma atividade promovida pela **Accenture** em parceria com a **UNINASSAU Boa Viagem**. Durante o evento, os participantes tiveram a oportunidade de aprimorar suas habilidades de desenvolvimento e aprender sobre práticas de programação modernas.
 
+![lista 1](https://github.com/user-attachments/assets/5c8d9971-75bf-492b-af2c-b00c97bb1b6f)
+![lista2](https://github.com/user-attachments/assets/117b5bb9-7f5f-42fc-b10c-13e6310103ac)
+
+
 ---
 
 ## Descrição
