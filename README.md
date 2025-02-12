@@ -1,4 +1,4 @@
-# ✅ To-Do List - Projeto de Verão (Summer Academy)
+# ✅ To-Do List 
 
 Este projeto faz parte da **Summer Academy**, uma atividade promovida pela **Accenture** em parceria com a **UNINASSAU Boa Viagem**. Durante o evento, os participantes tiveram a oportunidade de aprimorar suas habilidades de desenvolvimento e aprender sobre práticas de programação modernas.
 
