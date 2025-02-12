@@ -1,7 +1,5 @@
 # ✅ To-Do List - Projeto de Verão (Summer Academy)
 
-![Lista de Tarefas](https://upload.wikimedia.org/wikipedia/commons/1/14/Checklist-Icon.png)
-
 Este projeto faz parte da **Summer Academy**, uma atividade promovida pela **Accenture** em parceria com a **UNINASSAU Boa Viagem**. Durante o evento, os participantes tiveram a oportunidade de aprimorar suas habilidades de desenvolvimento e aprender sobre práticas de programação modernas.
 
 ## 📸 Screenshots
